@@ -19,4 +19,4 @@ It visualizes key performance metrics to help analyze business performance acros
 
 ---
 
-> Created with 💡 by [Arjun Pratap Singh]([https://github.com/Mayank-Rajputt](https://github.com/arjun-pratap-singh9457))
+> Created with 💡 by [Arjun Pratap Singh]([https://github.com/arjun-pratap-singh9457])
